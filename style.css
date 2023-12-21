@@ -131,6 +131,7 @@ img {
   .card {
     display: flex;
     flex-direction: row-reverse;
+    max-width: 800px;
     
     text-align: left;
   }
